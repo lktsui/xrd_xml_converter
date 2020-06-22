@@ -38,5 +38,5 @@ if __name__ == '__main__':
 
         if data_file.endswith(".xml"):
 
-            print "Reading "+data_file
+            print("Reading "+data_file)
             read_and_export(data_file)
